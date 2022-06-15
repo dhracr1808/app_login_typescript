@@ -1,1 +1,1 @@
-export { verify } from "./verifyoken";
+export { verify, generateToken } from "./verifyoken";
